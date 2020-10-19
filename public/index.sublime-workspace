@@ -1,0 +1,324 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"btn-gr",
+				"btn-group-toggle"
+			],
+			[
+				"data-t",
+				"data-toggle"
+			],
+			[
+				"car",
+				"card-body"
+			],
+			[
+				"ca",
+				"card-body"
+			],
+			[
+				"card",
+				"card-header"
+			],
+			[
+				"col-",
+				"col-sm"
+			],
+			[
+				"row",
+				"row-content"
+			],
+			[
+				"p",
+				"png"
+			],
+			[
+				"i",
+				"img"
+			],
+			[
+				"al",
+				"align-self-center"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"conta",
+				"contactus"
+			],
+			[
+				"na",
+				"nav"
+			],
+			[
+				"fa",
+				"fa-lg"
+			],
+			[
+				"br",
+				"breadcrump"
+			],
+			[
+				"col",
+				"col-12"
+			],
+			[
+				"mar",
+				"margin-left\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"boo",
+				"bootstrap-social"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"co",
+				"container"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: navigation_bar"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"colo",
+				"Color Picker: Insert Color"
+			],
+			[
+				"c",
+				"Color Picker"
+			],
+			[
+				"",
+				"Bookmarks: Select All"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: s",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 150.0,
+		"history":
+		[
+			"int i=1;",
+			"git status"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/package.json",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/css/style.css",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/css/styles.scss",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/css/style-old.css",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/index.html",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/css/style.less",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/aboutus.html",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/contactus.html",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/node_modules/bootstrap/dist/css/bootstrap.css",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/node_modules/bootstrap/dist/css/bootstrap.min.css",
+		"/home/jeet/next.html",
+		"/home/jeet/.config/sublime-text-3/Packages/User/navigation_bar.sublime-snippet",
+		"/home/jeet/.config/sublime-text-3/Packages/User/navbar.sublime-settings",
+		"/home/jeet/.config/sublime-text-3/Packages/User/bootstrap.sublime-snippet",
+		"/home/jeet/.config/sublime-text-3/Packages/ColorPicker/lib/linux_colorpicker.py",
+		"/home/jeet/.config/sublime-text-3/Packages/ColorPicker/ColorPicker.sublime-settings",
+		"/home/jeet/.config/sublime-text-3/Packages/User/ColorPicker.sublime-settings",
+		"/home/jeet/Desktop/WebDev/New Folder/Bootstrap4/conFusion/.gitignore"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
